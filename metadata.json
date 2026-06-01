@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Race Intelligence",
+  "description": "An AI-powered Formula 1 analytics, prediction, simulation, and race-engineering platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
